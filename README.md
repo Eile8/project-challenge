@@ -3,7 +3,7 @@
 
 Purpose of this challenge is to practice revising the code in css/html to avoid duplication as well as adding accessible features into the web page to make it more user friendly.
 
-↓ Web page ↓
+↕ Web page ↕
 ![image](https://user-images.githubusercontent.com/113479475/191876865-a2519ef8-6b20-400c-a866-255d5fafd25b.png)
 
 
